@@ -1,7 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Kristian Malooley! <br/>Cybersecurity Professional</h1>
+
+<h2>👨‍💻 AWS Tutorials</h2>
+
+- IAM, CLI, SSH, EC2, and more!: [https://sites.google.com/view/kristian-malooley-it-portfolio/aws-demos](https://sites.google.com/view/kristian-malooley-it-portfolio/aws-demos)
+
+<h2>🖥️ Active Directory Project</h2>
+
+- Home Lab Setup and Configuration: [https://sites.google.com/view/kristian-malooley-it-portfolio/active-directory-home-lab](https://sites.google.com/view/kristian-malooley-it-portfolio/active-directory-home-lab)
+
+<h2> 🤳 Connect with me:</h2>
+
+- LinkedIn: [https://www.linkedin.com/in/kristian-m-46bb72151/](https://www.linkedin.com/in/kristian-m-46bb72151/)
+- Email: alexmalooley@gmail.com
 
 <!--
-**alexmalooley/alexmalooley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kristianmalooley/kristianmalooley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
