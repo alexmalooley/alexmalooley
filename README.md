@@ -10,8 +10,8 @@
 <p>Check out my Home Lab Setup and Configuration for Active Directory:</p>
 <a href="https://sites.google.com/view/kristian-malooley-it-portfolio/active-directory-home-lab">Active Directory Home Lab</a>
 
-<h2>🔗 Azure SOC Project</h2>
-<p>Dive into my Azure SOC Project, where I showcase security operations in the cloud:</p>
+<h2>🔗 Cloud Security Project</h2>
+<p>Dive into my Cloud Security Project, where I showcase security operations in the cloud:</p>
 <a href="https://github.com/alexmalooley/Azure-SOC-Project">Azure SOC Project</a>
 
 <h2>🔍 Shifting Security Left: DevSecOps Workshop</h2>
